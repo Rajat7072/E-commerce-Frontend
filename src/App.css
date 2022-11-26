@@ -1,0 +1,14 @@
+.bag-quantity{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: gray;
+    justify-content: center;
+    color: white;
+}
+.form-group{
+    color:black
+}
